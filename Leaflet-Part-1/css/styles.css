@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #2E3D49;
+    margin: 20px;
+    font-weight: 700;
+}
+
+#map {
+    height: 600px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.info.legend {
+    background: white;
+    padding: 10px;
+    line-height: 18px;
+    color: #333;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  }
+  
+  .info.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+  }
+  
+#legend {
+    background: white;
+    border: 2px solid #555;
+    padding: 10px;
+    width: 200px;
+    margin: 10px auto;
+    font-size: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    color: #2E3D49;
+}
+
+#legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+#legend strong {
+    font-size: 14px;
+}
+
+.leaflet-popup-content-wrapper {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+
+.leaflet-popup-content h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #444;
+}
+
+.leaflet-popup-content p {
+    font-size: 14px;
+    margin: 5px 0;
+}
