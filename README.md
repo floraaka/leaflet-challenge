@@ -11,7 +11,7 @@ This project visualizes earthquake data using [Leaflet.js](https://leafletjs.com
 - Real-time data fetched from the **USGS GeoJSON Feed**, updated every five minutes.
 
 ## Visualization Preview
-![Map Preview]([preview-image.png](https://github.com/floraaka/leaflet-challenge/blob/main/Leaflet-Part-1/Image.png))
+![Map Preview](https://github.com/floraaka/leaflet-challenge/blob/main/Leaflet-Part-1/Image.png)
 
 ## Getting Started
 
